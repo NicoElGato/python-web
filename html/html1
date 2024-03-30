@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>dependencia tecnologica</title>
+</head>
+<body>
+    <h1>tecnologia, porque es bueno de vez en cuando, pero no siempre</h1>
+    <p>Todos, o la gran mayoria de nosotros, utilizamos la tecnologia. Pero hay que tener cuidado de no volvernos dependientes/adictos </p>
+    <h2>Las personas son mas propensas a envisiarse en la tecnologia con:</h2>
+             <ul>
+                   <li>1.- videojuegos</li>
+                   <li>2.- musica</li>
+                   <li>3.- redes sociales</li>
+             </ul>
+     <img src="PEGUE AQUÍ UN ENLACE A LA IMAGEN" alt="Image 1">
+</body>
+</html>
